@@ -1,6 +1,12 @@
-# Green Scan App
+# Green Scan Web App
+
+![image](https://github.com/ShreeveshKumar/Solution_challenge/assets/115733778/9cc05aa6-4d3a-40fe-b78f-0aa5ce60f2d5)
+
 
 Welcome to Green Scan, your innovative companion for eco-conscious shopping! This React app employs computer vision to identify eco-friendly and carbon-neutral products in supermarkets. Here's a brief overview:
+
+![image](https://github.com/ShreeveshKumar/Solution_challenge/assets/115733778/ba4ae349-23aa-48be-baad-b2df7c849fd4)
+
 
 ## Features:
 
@@ -18,6 +24,9 @@ Welcome to Green Scan, your innovative companion for eco-conscious shopping! Thi
 ### 4. Seller Platform (Coming Soon)
    - Sellers can soon list their eco-friendly products on our platform.
    - Stay tuned for updates on our website launch.
+
+![image](https://github.com/ShreeveshKumar/Solution_challenge/assets/115733778/5ed78355-ce7c-423c-8132-debb28c464d6)
+
 
 ## How to Get Started:
 
@@ -37,6 +46,8 @@ Welcome to Green Scan, your innovative companion for eco-conscious shopping! Thi
 
 5. **Learn Eco-Friendly Practices:**
    - Explore the app's educational resources for sustainable living tips.
+
+![image](https://github.com/ShreeveshKumar/Solution_challenge/assets/115733778/53bd744e-d3eb-43cf-96ac-277376239969)
 
 
 ## How to start the Web App:
