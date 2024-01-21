@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# Green Scan App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to Green Scan, your innovative companion for eco-conscious shopping! This React app employs computer vision to identify eco-friendly and carbon-neutral products in supermarkets. Here's a brief overview:
 
-## Available Scripts
+## Features:
 
-In the project directory, you can run:
+### 1. Computer Vision Interface
+   - Utilizes computer vision to identify sustainable products.
+   - Camera interface with a green box highlights eco-friendly items.
 
-### `npm start`
+### 2. Community Page
+   - Fosters eco-conscious interactions among users.
+   - Share tips, discoveries, and insights on sustainable living.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 3. Shopping List
+   - Convenient feature for seamless planning of your eco-friendly purchases.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 4. Seller Platform (Coming Soon)
+   - Sellers can soon list their eco-friendly products on our platform.
+   - Stay tuned for updates on our website launch.
 
-### `npm test`
+## How to Get Started:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. **Download Green Scan App:**
+   - The Green Scan app is not live yet. Stay tuned for its release on [App Store] and [Google Play].
 
-### `npm run build`
+2. **Explore App Features:**
+   - Once live, open the app to explore its features for eco-friendly shopping.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3. **Join the Green Scan Community:**
+   - Engage with like-minded individuals on the community page.
+   - Share your tips and discoveries for sustainable living.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+4. **Stay Updated on Website Launch:**
+   - Visit our website  (not live) for updates on the platform launch.
+   - Sellers can learn more about listing eco-friendly products.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+5. **Learn Eco-Friendly Practices:**
+   - Explore the app's educational resources for sustainable living tips.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## How to start the Web App:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. **Clone this repo:**
+2. **Open Visual Studio Code or some other terminal and run ```npm install```**
+3. **wait for dependencies to get installed and then run npm start**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Green Scan is committed to making eco-conscious choices effortless. Join us in creating a greener future!
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
