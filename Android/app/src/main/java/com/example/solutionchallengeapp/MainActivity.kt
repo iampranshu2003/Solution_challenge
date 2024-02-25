@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.solutionchallengeapp
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -26,7 +26,12 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this,RegisterActivity::class.java)
             startActivity(intent)
         }
+        getStartedButton.setOnClickListener {
+            val intent = Intent(this, DemoActivity::class.java)
+            startActivity(intent)
+        }
 
 
     }
+
 }

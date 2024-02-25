@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "890076865571",
-    "project_id": "gdscsolutionchallenge-6a17b",
-    "storage_bucket": "gdscsolutionchallenge-6a17b.appspot.com"
+    "project_number": "595588345443",
+    "project_id": "solutionchallenge-12523",
+    "storage_bucket": "solutionchallenge-12523.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:890076865571:android:432a65429dfe242a9afd96",
+        "mobilesdk_app_id": "1:595588345443:android:9345d00d28668324af1256",
         "android_client_info": {
-          "package_name": "com.example.myapplication"
+          "package_name": "com.example.solutionchallengeapp"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA_dZWBw36DPG9ylc9qmYOGfI-Fh-fNAOs"
+          "current_key": "AIzaSyDBryp51EPIr_plEso163-NKQKWxHYqPVA"
         }
       ],
       "services": {

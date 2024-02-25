@@ -8,35 +8,42 @@
     android:backgroundTint="@color/background">
 
     <ImageView
-        android:id="@+id/slide_image"
-        android:layout_width="417dp"
-        android:layout_height="564dp"
+        android:id="@+id/imageSlideIcon"
+        android:layout_width="411dp"
+        android:layout_height="563dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0" />
 
     <TextView
-        android:id="@+id/slide_title"
+        android:id="@+id/textTitle"
         android:layout_width="128dp"
         android:layout_height="55dp"
+        android:text="Title"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
-        app:layout_constraintStart_toStartOf="@+id/slide_image"
-        app:layout_constraintTop_toBottomOf="@+id/slide_image"
+        app:layout_constraintStart_toStartOf="@+id/imageSlideIcon"
+        app:layout_constraintTop_toBottomOf="@+id/imageSlideIcon"
         app:layout_constraintVertical_bias="0.167" />
 
     <TextView
-        android:id="@+id/slide_desc"
+        android:id="@+id/textDescription"
         android:layout_width="221dp"
         android:layout_height="36dp"
+        android:text="Description"
+        android:textAlignment="center"
+        android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/slide_title" />
+        app:layout_constraintTop_toBottomOf="@+id/textTitle" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

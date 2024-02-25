@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="com.example.myapplication" />
-                  <option name="mobileSdkAppId" value="1:890076865571:android:432a65429dfe242a9afd96" />
-                  <option name="projectId" value="gdscsolutionchallenge-6a17b" />
-                  <option name="projectNumber" value="890076865571" />
+                  <option name="appId" value="com.example.solutionchallengeapp" />
+                  <option name="mobileSdkAppId" value="1:595588345443:android:9345d00d28668324af1256" />
+                  <option name="projectId" value="solutionchallenge-12523" />
+                  <option name="projectNumber" value="595588345443" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
